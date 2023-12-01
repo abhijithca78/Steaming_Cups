@@ -3,6 +3,10 @@
 ![Cover Steaming Cups](https://github.com/abhijithca78/Steaming_Cups/assets/83497961/893293e7-d1b3-498f-b075-e75e5b8cfb56)
 
 ## Running the App Locally:
+
+### Clone the Project
+
+
 ### Start the Metro server:
 
 ``` bash
