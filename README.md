@@ -77,13 +77,13 @@ Clean the build
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#DC3535](https://via.placeholder.com/10/0a192f?text=+) #DC3535 |
-| Example Color | ![#D17842](https://via.placeholder.com/10/D17842?text=+) #D17842 |
-| Example Color | ![#0C0F14](https://via.placeholder.com/10/0C0F14?text=+) #0C0F14 |
-| Example Color | ![#252A32](https://via.placeholder.com/10/00b48a?text=+) #252A32 |
-| Example Color | ![#52555A](https://via.placeholder.com/10/00b48a?text=+) #52555A |
-| Example Color | ![#AEAEAE](https://via.placeholder.com/10/00b48a?text=+) #AEAEAE |
-| Example Color | ![#FFFFFF](https://via.placeholder.com/10/00b48a?text=+) #FFFFFF |
+| Example Color | ![#dc3535](https://github.com/abhijithca78/Steaming_Cups/assets/83497961/0880ad55-027f-4ead-8884-2d812c769282) #DC3535 |
+| Example Color | ![#D17842](https://github.com/abhijithca78/Steaming_Cups/assets/83497961/8a15d8f5-4d31-4bdf-8e89-7a97ec83fca0) #D17842 |
+| Example Color | ![#0C0F14](https://github.com/abhijithca78/Steaming_Cups/assets/83497961/278832a9-68e1-466a-a2de-f611a66178b8) #0C0F14 |
+| Example Color | ![#252A32](https://github.com/abhijithca78/Steaming_Cups/assets/83497961/0160094c-38e5-4883-ae68-be73ac62a4e5) #252A32 |
+| Example Color | ![#52555A](https://github.com/abhijithca78/Steaming_Cups/assets/83497961/d5bc1d1a-2daf-479d-9fcc-e472b9ff35cb) #52555A |
+| Example Color | ![#AEAEAE](https://github.com/abhijithca78/Steaming_Cups/assets/83497961/41d974f2-d250-4807-9489-5bfd9a5c4fb9) #AEAEAE |
+| Example Color | ![#FFFFFF](https://github.com/abhijithca78/Steaming_Cups/assets/83497961/f9569350-08d1-4646-9ba2-d7edebc6c976) #FFFFFF |
 
 
 ![colors](https://github.com/abhijithca78/Steaming_Cups/assets/83497961/56759990-68f0-4384-8d4d-c261d2a70777)
