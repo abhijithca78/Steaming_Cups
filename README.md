@@ -34,3 +34,8 @@ This will create a release build of your app.
 ## Handling Dependencies:
 
 Use npm or yarn to manage your project dependencies.
+
+
+## Demo
+
+https://www.figma.com/proto/RyVLhDKrymZhThABrSgzIK/Coffee-Shop-App-UI?type=design&node-id=52-2396&t=Lt5NlPeU7UB7xawr-1&scaling=scale-down&page-id=0%3A1&mode=design
