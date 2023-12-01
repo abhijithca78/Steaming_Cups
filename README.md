@@ -73,6 +73,20 @@ Clean the build
 ./gradlew bundleRelease
 ```
 
+## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Example Color | ![#DC3535](https://via.placeholder.com/10/0a192f?text=+) #DC3535 |
+| Example Color | ![#D17842](https://via.placeholder.com/10/D17842?text=+) #D17842 |
+| Example Color | ![#0C0F14](https://via.placeholder.com/10/0C0F14?text=+) #0C0F14 |
+| Example Color | ![#252A32](https://via.placeholder.com/10/00b48a?text=+) #252A32 |
+| Example Color | ![#52555A](https://via.placeholder.com/10/00b48a?text=+) #52555A |
+| Example Color | ![#AEAEAE](https://via.placeholder.com/10/00b48a?text=+) #AEAEAE |
+| Example Color | ![#FFFFFF](https://via.placeholder.com/10/00b48a?text=+) #FFFFFF |
+
+
+![colors](https://github.com/abhijithca78/Steaming_Cups/assets/83497961/56759990-68f0-4384-8d4d-c261d2a70777)
 
 ## Demo
 
