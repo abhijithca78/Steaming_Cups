@@ -17,10 +17,7 @@ npm install
 
 ### Start the Metro server:
 
-``` bash
-npx react-native start
-Run the app on Android:
-```
+`Run the app on Android`
 
 ``` bash
 npx react-native run-android
