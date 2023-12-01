@@ -66,10 +66,15 @@ Clean the build
 ```bash
   ./gradlew installRelease
 ```
-generates release signed APK
+`generates release signed APK`
+```bash
 ./gradlew assembleRelease
-# generates release signed AAB
+```
+
+`generates release signed AAB`
+```bash
 ./gradlew bundleRelease
+```
 
 
 ## Demo
