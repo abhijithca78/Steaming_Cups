@@ -62,7 +62,7 @@ Clean the build
 ```bash
   ./gradlew clean
 ```
-== Deploy to your connected ==  
+#### Generating APK
 ```bash
   ./gradlew installRelease
 ```
