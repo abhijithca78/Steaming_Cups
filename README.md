@@ -75,6 +75,8 @@ Clean the build
 
 ## Color Reference
 
+### HEX
+
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | primaryRedHex | ![#dc3535](https://github.com/abhijithca78/Steaming_Cups/assets/83497961/0880ad55-027f-4ead-8884-2d812c769282) #DC3535 |
@@ -90,16 +92,14 @@ Clean the build
 | secondaryDarkGreyHex | ![#21262e](https://github.com/abhijithca78/Steaming_Cups/assets/83497961/d6136c2e-c892-421f-bb90-6b5c95ef03db) #21262E |
 
 
+### RGBA
+
 | Color             | RGBA                                                               |
 | ----------------- | ------------------------------------------------------------------ |
 | primaryBlackRGBA  | ![rgba(12,15,20,0 5)](https://github.com/abhijithca78/Steaming_Cups/assets/83497961/e85613b9-85cf-4813-bccf-c8150bbb8d17) rgba(12,15,20,0.5) |
-| secondaryBlackRGBA| ![rgba(0,0,0,0 7)](https://github.com/abhijithca78/Steaming_Cups/assets/83497961/2773ac96-5a14-40bc-a872-afbec769d7ac) rgba(0,0,0,0.7) |
+| secondaryBlackRGBA | ![rgba(0,0,0,0 7)](https://github.com/abhijithca78/Steaming_Cups/assets/83497961/2773ac96-5a14-40bc-a872-afbec769d7ac) rgba(0,0,0,0.7) |
 
 
-
-
-
-![colors](https://github.com/abhijithca78/Steaming_Cups/assets/83497961/56759990-68f0-4384-8d4d-c261d2a70777)
 
 ## Demo
 
