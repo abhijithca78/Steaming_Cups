@@ -86,9 +86,8 @@ Clean the build
 | primaryWhiteHex | ![#FFFFFF](https://github.com/abhijithca78/Steaming_Cups/assets/83497961/f9569350-08d1-4646-9ba2-d7edebc6c976) #FFFFFF |
 | primaryWhiteHex | ![#FFFFFF](https://github.com/abhijithca78/Steaming_Cups/assets/83497961/f9569350-08d1-4646-9ba2-d7edebc6c976) #FFFFFF |
 | secondaryGreyHex | ![#252A32](https://github.com/abhijithca78/Steaming_Cups/assets/83497961/0160094c-38e5-4883-ae68-be73ac62a4e5) #252A32 |
-| secondaryLightGreyHex | ![#AEAEAE](https://github.com/abhijithca78/Steaming_Cups/assets/83497961/41d974f2-d250-4807-9489-5bfd9a5c4fb9) #AEAEAE |
-
 | secondaryDarkGreyHex | ![#21262e](https://github.com/abhijithca78/Steaming_Cups/assets/83497961/d6136c2e-c892-421f-bb90-6b5c95ef03db) #21262E |
+| secondaryLightGreyHex | ![#AEAEAE](https://github.com/abhijithca78/Steaming_Cups/assets/83497961/41d974f2-d250-4807-9489-5bfd9a5c4fb9) #AEAEAE |
 
 
 
