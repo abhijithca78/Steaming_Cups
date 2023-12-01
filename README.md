@@ -5,12 +5,14 @@
 ## Running the App Locally:
 
 ### Clone the Project
-```console
-
-https://github.com/abhijithca78/Steaming_Cups.git
-
+```bash
+git clone https://github.com/abhijithca78/Steaming_Cups.git
 ```
 
+### Installing Dependencies
+```bash
+npm install
+```
 
 ### Start the Metro server:
 
